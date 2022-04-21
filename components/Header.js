@@ -17,7 +17,7 @@ const Header = () => {
             <HeaderItem title="SEARCH" Icon={AiOutlineSearch}/>
             <HeaderItem title="ACCOUNT" Icon={MdPersonOutline}/>
         </div>
-        <div className="-mt-8">
+        <div className="-mt-6">
             <Image src="/img/hulu_logo.png" alt="logo" className='object-contain' width={62.5} height={25}/>
         </div>
         
